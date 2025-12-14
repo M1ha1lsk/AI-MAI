@@ -1,4 +1,4 @@
-# frameworks
+# AI frameworks
 Калюжный Михаил Сергеевич 
 
 М8О-408Б-22  
